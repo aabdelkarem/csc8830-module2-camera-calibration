@@ -1,0 +1,21 @@
+{
+  "width_m": 0.6006721815264506,
+  "height_m": 0.4015272125365486,
+  "depth_m": 3.0,
+  "four_side_lengths_m": [
+    0.6004791827017426,
+    0.4014953233064663,
+    0.6008651803511588,
+    0.4015591017666309
+  ],
+  "input_sha256": "b539b3d375bb8f887278d229adc72715f0de68bf7362da3d5534bbcceb4386c3",
+  "assumption": "Planar, frontoparallel object at constant axial depth",
+  "width_ground_truth_m": 0.6,
+  "width_signed_error_m": 0.0006721815264506548,
+  "width_absolute_error_pct": 0.11203025440844247,
+  "height_ground_truth_m": 0.4,
+  "height_signed_error_m": 0.0015272125365485834,
+  "height_absolute_error_pct": 0.38180313413714584,
+  "data_origin": "SIMULATION",
+  "provenance": "SYNTHETIC CAMERA STUDY. These are rendered camera observations, not physical phone photos. Distances and dimensions are defined scene parameters. Aya reports that the instructor approves synthetic images when they resemble phone captures; this permission is reported by Aya."
+}

@@ -1,0 +1,154 @@
+{
+  "file": "Module_2_Application_Demo_SIMULATED.mp4",
+  "data_origin": "SIMULATION",
+  "frames_decoded": 1116,
+  "fps": 20.0,
+  "duration_seconds": 55.8,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "capture_method": "Application-rendered output states captured during actual computation, paced for readability. Not OS desktop screen capture.",
+  "audio": "None; explanation is captioned. No student voice is claimed.",
+  "actual_execution_reproduced_results": true,
+  "events": [
+    {
+      "event": "start",
+      "first_frame": 0,
+      "frames": 120,
+      "computation_elapsed_seconds": 0.004234459000000079
+    },
+    {
+      "event": "detected_checkerboard_1",
+      "first_frame": 120,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.2161894999999996
+    },
+    {
+      "event": "detected_checkerboard_2",
+      "first_frame": 136,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.29173108399999936
+    },
+    {
+      "event": "detected_checkerboard_3",
+      "first_frame": 152,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.3661942919999994
+    },
+    {
+      "event": "detected_checkerboard_4",
+      "first_frame": 168,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.43813283399999925
+    },
+    {
+      "event": "detected_checkerboard_5",
+      "first_frame": 184,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.5125057499999999
+    },
+    {
+      "event": "detected_checkerboard_6",
+      "first_frame": 200,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.5842589589999996
+    },
+    {
+      "event": "detected_checkerboard_7",
+      "first_frame": 216,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.660494709
+    },
+    {
+      "event": "detected_checkerboard_8",
+      "first_frame": 232,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.7374629169999993
+    },
+    {
+      "event": "detected_checkerboard_9",
+      "first_frame": 248,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.8111415419999997
+    },
+    {
+      "event": "detected_checkerboard_10",
+      "first_frame": 264,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.8840663749999997
+    },
+    {
+      "event": "detected_checkerboard_11",
+      "first_frame": 280,
+      "frames": 16,
+      "computation_elapsed_seconds": 0.9575282919999992
+    },
+    {
+      "event": "detected_checkerboard_12",
+      "first_frame": 296,
+      "frames": 16,
+      "computation_elapsed_seconds": 1.0362226249999997
+    },
+    {
+      "event": "detected_checkerboard_13",
+      "first_frame": 312,
+      "frames": 16,
+      "computation_elapsed_seconds": 1.112680375
+    },
+    {
+      "event": "detected_checkerboard_14",
+      "first_frame": 328,
+      "frames": 16,
+      "computation_elapsed_seconds": 1.1838425419999998
+    },
+    {
+      "event": "detected_checkerboard_15",
+      "first_frame": 344,
+      "frames": 16,
+      "computation_elapsed_seconds": 1.254858875
+    },
+    {
+      "event": "detected_checkerboard_16",
+      "first_frame": 360,
+      "frames": 16,
+      "computation_elapsed_seconds": 1.327744375
+    },
+    {
+      "event": "calibration_completed",
+      "first_frame": 376,
+      "frames": 140,
+      "computation_elapsed_seconds": 1.412067167
+    },
+    {
+      "event": "projection_method",
+      "first_frame": 516,
+      "frames": 160,
+      "computation_elapsed_seconds": 1.7105194999999993
+    },
+    {
+      "event": "dimensions_completed",
+      "first_frame": 676,
+      "frames": 160,
+      "computation_elapsed_seconds": 1.9516185419999994
+    },
+    {
+      "event": "validation",
+      "first_frame": 836,
+      "frames": 160,
+      "computation_elapsed_seconds": 2.3670761249999996
+    },
+    {
+      "event": "finish",
+      "first_frame": 996,
+      "frames": 120,
+      "computation_elapsed_seconds": 2.591505916999999
+    }
+  ],
+  "source_sha256": {
+    "record_demo.py": "e99c09eb9cc9e3cea89ea0e2c774cb0b27e374d21c89ac0fe2db8bf3e7545135",
+    "cv_course.py": "fcdc24d65415bd47f093e9ea4cbe73fd042b1e179ceb8209df3f36f2ec319617",
+    "render_and_run.py": "88a2d88b207bc8a05ce9cf31d1315254c64f6584d0c042e9e587b1327830d310",
+    "phone_scene.py": "f0cf5f28628c75fc30a4155496154c8644bbb965b41286e5233de07603212ccd"
+  }
+}

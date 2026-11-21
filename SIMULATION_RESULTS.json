@@ -1,0 +1,12 @@
+{
+  "provenance": "SYNTHETIC CAMERA STUDY. These are rendered camera observations, not physical phone photos. Distances and dimensions are defined scene parameters. Aya reports that the instructor approves synthetic images when they resemble phone captures; this permission is reported by Aya.",
+  "calibration_views": 16,
+  "reprojection_rms_px": 0.1973689171438175,
+  "maximum_relative_focal_error": 0.0017563596697172112,
+  "estimated_width_m": 0.6006721815264506,
+  "estimated_height_m": 0.4015272125365486,
+  "width_error_percent": 0.11203025440844247,
+  "height_error_percent": 0.38180313413714584,
+  "target_corner_max_error_px": 0.3299858885307877,
+  "all_simulation_checks_passed": true
+}

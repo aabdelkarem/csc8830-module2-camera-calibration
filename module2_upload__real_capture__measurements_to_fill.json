@@ -1,0 +1,18 @@
+{
+  "status": "AWAITING_REAL_PHOTOS_AND_MEASUREMENTS",
+  "capture_date": null,
+  "phone_make_model": null,
+  "camera_lens": null,
+  "zoom": null,
+  "image_width_px": null,
+  "image_height_px": null,
+  "focus_locked": null,
+  "five_square_horizontal_span_mm": null,
+  "five_square_vertical_span_mm": null,
+  "object_description": null,
+  "object_width_cm": null,
+  "object_height_cm": null,
+  "lens_to_object_front_face_distance_cm": null,
+  "distance_reference_and_uncertainty": null,
+  "capture_notes": null
+}

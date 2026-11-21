@@ -1,0 +1,6 @@
+{
+  "data_origin": "SIMULATION",
+  "python": "3.9.6",
+  "opencv": "4.13.0",
+  "numpy": "2.0.2"
+}

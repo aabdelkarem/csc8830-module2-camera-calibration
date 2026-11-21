@@ -1,0 +1,28 @@
+{
+  "out": "outputs/dimensions",
+  "image": "images/sim_object_at_3m.png",
+  "calibration": "outputs/calibration/calibration.npz",
+  "depth_m": 3.0,
+  "true_width_m": 0.6,
+  "true_height_m": 0.4,
+  "frontoparallel_confirmed": true,
+  "corners_tl_tr_br_bl": [
+    [
+      480.25567626953125,
+      374.556884765625
+    ],
+    [
+      799.5823364257812,
+      374.5588684082031
+    ],
+    [
+      799.68896484375,
+      585.436279296875
+    ],
+    [
+      480.115478515625,
+      585.4471435546875
+    ]
+  ],
+  "data_origin": "SIMULATION"
+}

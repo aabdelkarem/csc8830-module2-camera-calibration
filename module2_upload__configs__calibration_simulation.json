@@ -1,0 +1,10 @@
+{
+  "out": "outputs/calibration",
+  "cols": 9,
+  "rows": 6,
+  "square_m": 0.02,
+  "image_dir": "images/calibration",
+  "pattern": "*.png",
+  "data_origin": "SIMULATION",
+  "calibration_flags": 128
+}

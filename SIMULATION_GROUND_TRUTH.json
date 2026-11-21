@@ -1,0 +1,299 @@
+{
+  "provenance": "SYNTHETIC CAMERA STUDY. These are rendered camera observations, not physical phone photos. Distances and dimensions are defined scene parameters. Aya reports that the instructor approves synthetic images when they resemble phone captures; this permission is reported by Aya.",
+  "camera_model": "virtual pinhole with Brown-Conrady distortion",
+  "image_size_px": [
+    1280,
+    960
+  ],
+  "K_ground_truth": [
+    [
+      1600.0,
+      0.0,
+      640.0
+    ],
+    [
+      0.0,
+      1580.0,
+      480.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "distortion_ground_truth": [
+    -0.07,
+    0.02,
+    0.0006,
+    -0.0004,
+    0.0
+  ],
+  "square_size_m": 0.02,
+  "inner_corner_shape": [
+    9,
+    6
+  ],
+  "calibration_poses": [
+    {
+      "image": "images/calibration/sim_checkerboard_01.png",
+      "rvec_world_to_camera": [
+        0.09456646613162865,
+        0.39,
+        0.0
+      ],
+      "t_world_to_camera_m": [
+        -0.0749069271802064,
+        -0.06205774352376486,
+        0.5957668637212803
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_02.png",
+      "rvec_world_to_camera": [
+        0.31733273934478995,
+        0.2424278876255591,
+        0.12003653430066562
+      ],
+      "t_world_to_camera_m": [
+        -0.14229361915208466,
+        -0.11477682127154346,
+        0.5832075143779908
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_03.png",
+      "rvec_world_to_camera": [
+        0.0133058119786531,
+        -0.08860881693030398,
+        0.17889630541409607
+      ],
+      "t_world_to_camera_m": [
+        -0.0026714636179605566,
+        -0.11600047165070201,
+        0.5865977130892818
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_04.png",
+      "rvec_world_to_camera": [
+        -0.31280963765283104,
+        -0.3525881353866539,
+        0.14658136063664326
+      ],
+      "t_world_to_camera_m": [
+        -0.14191452684398548,
+        -0.016630310518180674,
+        0.5970007584248045
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_05.png",
+      "rvec_world_to_camera": [
+        -0.11964053274567579,
+        -0.3497357823703173,
+        0.03956105020052105
+      ],
+      "t_world_to_camera_m": [
+        -0.000815361020314681,
+        -0.011329269090022263,
+        0.5970354001575742
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_06.png",
+      "rvec_world_to_camera": [
+        0.2721397186011406,
+        -0.08221036177800409,
+        -0.08762159675802589
+      ],
+      "t_world_to_camera_m": [
+        -0.09106334449307352,
+        -0.1119486146741634,
+        0.6108806072440498
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_07.png",
+      "rvec_world_to_camera": [
+        0.21215015362629866,
+        0.24753022161762753,
+        -0.1701477921938514
+      ],
+      "t_world_to_camera_m": [
+        -0.08604667850208678,
+        0.03213428294636253,
+        0.6534578532377717
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_08.png",
+      "rvec_world_to_camera": [
+        -0.20002260764572227,
+        0.3899448681895319,
+        -0.16595796195867898
+      ],
+      "t_world_to_camera_m": [
+        -0.1609670326147477,
+        -0.03969785946835068,
+        0.6099901131616421
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_09.png",
+      "rvec_world_to_camera": [
+        -0.2801446959002971,
+        0.2372570126675793,
+        -0.07718745804001126
+      ],
+      "t_world_to_camera_m": [
+        0.007633662736810931,
+        -0.04662195901466279,
+        0.6138171314922027
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_10.png",
+      "rvec_world_to_camera": [
+        0.10479182052406177,
+        -0.09498221995695853,
+        0.05092172613170873
+      ],
+      "t_world_to_camera_m": [
+        -0.12130141400493416,
+        -0.09467673868291698,
+        0.5811177686146821
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_11.png",
+      "rvec_world_to_camera": [
+        0.31576702856787625,
+        -0.355340802135024,
+        0.1530785917131416
+      ],
+      "t_world_to_camera_m": [
+        -0.018598402152926956,
+        -0.01981377792993297,
+        0.5630377747365579
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_12.png",
+      "rvec_world_to_camera": [
+        0.00254821881149995,
+        -0.34678454952389076,
+        0.17721877005156078
+      ],
+      "t_world_to_camera_m": [
+        -0.10783669943085433,
+        -0.019986152222147904,
+        0.5923282850435055
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_13.png",
+      "rvec_world_to_camera": [
+        -0.31490080162612566,
+        -0.07578866351758057,
+        0.11103919040178806
+      ],
+      "t_world_to_camera_m": [
+        -0.015368319979068693,
+        -0.10873118791069812,
+        0.6410872563162143
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_14.png",
+      "rvec_world_to_camera": [
+        -0.10959379791027601,
+        0.25256257207501215,
+        -0.011731645362539503
+      ],
+      "t_world_to_camera_m": [
+        -0.08537569272036655,
+        -0.05579790680184664,
+        0.6673833637224735
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_15.png",
+      "rvec_world_to_camera": [
+        0.27764611220533353,
+        0.38977948834539183,
+        -0.1285234340448925
+      ],
+      "t_world_to_camera_m": [
+        -0.13921590765150438,
+        -0.04568967275089859,
+        0.5892261087035257
+      ]
+    },
+    {
+      "image": "images/calibration/sim_checkerboard_16.png",
+      "rvec_world_to_camera": [
+        0.20397523076807644,
+        0.2320190586908579,
+        -0.179813100940887
+      ],
+      "t_world_to_camera_m": [
+        -0.024723444146736905,
+        -0.03964698515150862,
+        0.5926692957039664
+      ]
+    }
+  ],
+  "appearance": {
+    "material": "image-generated oak surface; not a physical capture",
+    "material_sha256": "a23c0ab391e5c9ebf9224f9406ae72cf99c54d863d248f6e7204e5b43595e41b",
+    "sensor_noise_std": 1.25,
+    "jpeg_quality": 94,
+    "blur_sigma_px": 0.38,
+    "note": "Photographic appearance is simulated. Camera geometry is defined analytically, not inferred from image-generation prompts."
+  },
+  "target": {
+    "image": "images/sim_object_at_3m.png",
+    "width_m": 0.6,
+    "height_m": 0.4,
+    "axial_depth_m": 3.0,
+    "corners_tl_tr_br_bl": [
+      [
+        480.25567626953125,
+        374.556884765625
+      ],
+      [
+        799.5823364257812,
+        374.5588684082031
+      ],
+      [
+        799.68896484375,
+        585.436279296875
+      ],
+      [
+        480.115478515625,
+        585.4471435546875
+      ]
+    ],
+    "projected_ground_truth_corners": [
+      [
+        480.15186567901236,
+        374.78642416460906
+      ],
+      [
+        799.8040454320987,
+        374.80327749794236
+      ],
+      [
+        799.8296454320987,
+        585.2409625020576
+      ],
+      [
+        480.12626567901236,
+        585.2578158353909
+      ]
+    ],
+    "corner_detection_max_error_px": 0.3299858885307877,
+    "corner_source": "navy-color segmentation, quadrilateral contour and subpixel refinement; ground-truth corners used only to check error"
+  }
+}
